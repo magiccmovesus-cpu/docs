@@ -153,4 +153,4 @@ As part of that, we've learned how to:
 
 ## Further reading
 
-* [AUTOTITLE](/get-started/using-github/github-flow)
+* [content/get-started/start-your-journey/hello-world.md](/get-started/using-github/github-flow)
